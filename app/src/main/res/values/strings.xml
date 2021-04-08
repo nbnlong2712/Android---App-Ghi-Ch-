@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="note_content_hint">Enter content for note.</string>
+    <string name="note_title_label">Note Title</string>
+    <string name="Add">Add</string>
+    <string name="Delete">Delete</string>
+
+</resources>
